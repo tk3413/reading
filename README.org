@@ -1,28 +1,36 @@
 * reading
 
-| name                                               | author             | type    | status  | category    |
-|----------------------------------------------------+--------------------+---------+---------+-------------|
-| Clean Agile                                        |                    | book    | read    | software    |
-| Clean Code                                         |                    | book    | read    | software    |
-| Test Driven Development By Example                 |                    | book    | read    | software    |
-| Clean Architecture                                 |                    | book    | read    | software    |
-| Microservice Patterns: With Examples in Java       |                    | book    | read    | software    |
-| Domain Driven Design                               |                    | book    | reading | software    |
-| Functional Programming Patterns in Scala & Clojure |                    | book    | read    | software    |
-| [[http://antirez.com/news/112][The Mythical 10x Programmer]]                        | antirez            | article | read    | software    |
-| Biopunk                                            | Marcus Wohlsen     | book    | reading | biology     |
-| Structures and Why Things Don't Fall Down          | J. E. Gordon       | book    | to read | engineering |
-| [[https://www.3rdsonconsulting.com/story][3rd Son]]                                            |                    | article | read    | life        |
-| [[https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/][Alar: Open Source Dictionary]]                       | Kailash Nadh       | article | read    | software    |
-| [[https://blog.klipse.tech][Data Oriented Programming]]                          | Yehonathan Sharvit | article | read    | software    |
-| [[http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1][Cells are Fast and Crowded]]                         | Ken Shirriff       | article | read    | biology     |
-| [[https://lowlvl.org][Low-level Academy]]                                  |                    | article | to read | software    |
-| [[https://www.amazon.com/Clean-Language-Revealing-Metaphors-Opening/dp/1845901258/ref=asc_df_1845901258/?tag=hyprod-20&linkCode=df0&hvadid=312543040920&hvpos=&hvnetw=g&hvrand=737750494595960504&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008143&hvtargid=pla-457991137105&psc=1][Clean Language]]                                     | Wendy Sullivan     | book    | to read | life        |
-| [[https://blog.agendashift.com/2019/01/18/my-favourite-clean-language-question/][Clean Language Questions]]                           | Agendashift        | article | read    | life        |
-| [[https://github.com/sritchie/blackjack/blob/develop/src/blackjack/core.clj][Blackjack in Clojure]]                               | Sam Ritchie        | code    | read    | software    |
-| [[https://github.com/morris/vanilla-todo][Vanilla JS Implementation]]                          | Morris             | code    | to read | software    |
-| [[https://blog.danielna.com/choosing-the-management-track/][Choosing the Management Track]]                      | Daniel Na          | article | read    | management  |
-| [[https://news.ycombinator.com/item?id=24618707][How to get Promoted]]                                | Hackernews         | discuss | read    | management  |
-| [[https://www.amazon.com/gp/product/0815341059/ref=as_li_ss_tl?ie=UTF8&tag=rightocom&linkCode=as2&camp=217145&creative=399369&creativeASIN=0815341059][Molecular Biology of the Cell]]                      | Bruce Alberts      | book    | to read | biology     |
-| [[https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098][Pokemon & Predatory Journaling]]                     | Matan Shelomi      | article | read    | biology     |
-|                                                    |                    |         |         |             |
+| name                                               | author               | type    | status  | category    |
+|----------------------------------------------------+----------------------+---------+---------+-------------|
+| Clean Agile                                        |                      | book    | read    | software    |
+| Clean Code                                         |                      | book    | read    | software    |
+| Test Driven Development By Example                 |                      | book    | read    | software    |
+| Clean Architecture                                 |                      | book    | read    | software    |
+| Microservice Patterns: With Examples in Java       |                      | book    | read    | software    |
+| Domain Driven Design                               |                      | book    | reading | software    |
+| Functional Programming Patterns in Scala & Clojure |                      | book    | read    | software    |
+| [[http://antirez.com/news/112][The Mythical 10x Programmer]]                        | antirez              | article | read    | software    |
+| Biopunk                                            | Marcus Wohlsen       | book    | reading | biology     |
+| Structures and Why Things Don't Fall Down          | J. E. Gordon         | book    | to read | engineering |
+| [[https://www.3rdsonconsulting.com/story][3rd Son]]                                            |                      | article | read    | life        |
+| [[https://zerodha.tech/blog/alar-the-making-of-an-open-source-dictionary/][Alar: Open Source Dictionary]]                       | Kailash Nadh         | article | read    | software    |
+| [[https://blog.klipse.tech][Data Oriented Programming]]                          | Yehonathan Sharvit   | article | read    | software    |
+| [[http://www.righto.com/2011/07/cells-are-very-fast-and-crowded-places.html?m=1][Cells are Fast and Crowded]]                         | Ken Shirriff         | article | read    | biology     |
+| [[https://lowlvl.org][Low-level Academy]]                                  |                      | article | to read | software    |
+| [[https://www.amazon.com/Clean-Language-Revealing-Metaphors-Opening/dp/1845901258/ref=asc_df_1845901258/?tag=hyprod-20&linkCode=df0&hvadid=312543040920&hvpos=&hvnetw=g&hvrand=737750494595960504&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9008143&hvtargid=pla-457991137105&psc=1][Clean Language]]                                     | Wendy Sullivan       | book    | to read | life        |
+| [[https://blog.agendashift.com/2019/01/18/my-favourite-clean-language-question/][Clean Language Questions]]                           | Agendashift          | article | read    | life        |
+| [[https://github.com/sritchie/blackjack/blob/develop/src/blackjack/core.clj][Blackjack in Clojure]]                               | Sam Ritchie          | code    | read    | software    |
+| [[https://github.com/morris/vanilla-todo][Vanilla JS Implementation]]                          | Morris               | code    | to read | software    |
+| [[https://blog.danielna.com/choosing-the-management-track/][Choosing the Management Track]]                      | Daniel Na            | article | read    | management  |
+| [[https://news.ycombinator.com/item?id=24618707][How to get Promoted]]                                | Hackernews           | discuss | read    | management  |
+| [[https://www.amazon.com/gp/product/0815341059/ref=as_li_ss_tl?ie=UTF8&tag=rightocom&linkCode=as2&camp=217145&creative=399369&creativeASIN=0815341059][Molecular Biology of the Cell]]                      | Bruce Alberts        | book    | to read | biology     |
+| [[https://www.the-scientist.com/critic-at-large/opinion-using-pokmon-to-detect-scientific-misinformation-68098][Pokemon & Predatory Journaling]]                     | Matan Shelomi        | article | read    | biology     |
+| [[https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/][How CPython VM Works]]                               | Victor Skvortsov     | article | to read | software    |
+| [[https://1mb.club][1mb Club]]                                           |                      | article | read    | software    |
+| [[https://news.ycombinator.com/item?id=25034562][Build a Video Card]]                                 | hackernews           | discuss | to read | software    |
+| [[https://nomoregoogle.com][No More Google]]                                     | levelsio             | article | read    | software    |
+| [[https://levels.io/contact/][Why I am Unreachable]]                               | levelsio             | article | read    | life        |
+| [[https://levels.io/startups/][Startups]]                                           | levelsio             | article | to read | life        |
+| [[https://lite.cnn.com/en][CNN lite]]                                           | cnn                  | news    | to read | news        |
+| [[https://www.allthingsdistributed.com/2020/11/how-the-seahawks-are-using-an-aws-data-lake-to-improve-their-game.html][Seahawk's Data Strategy]]                            | allthingsdistributed | article | read    | software    |
+|                                                    |                      |         |         |             |
