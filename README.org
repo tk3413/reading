@@ -1,1 +1,15 @@
 * reading
+
+| name                                               | author         | status  | category    |
+|----------------------------------------------------+----------------+---------+-------------|
+| Clean Agile                                        |                | read    | software    |
+| Clean Code                                         |                | read    | software    |
+| Test Driven Development By Example                 |                | read    | software    |
+| Clean Architecture                                 |                | read    | software    |
+| Microservice Patterns: With Examples in Java       |                | read    | software    |
+| Domain Driven Design                               |                | reading | software    |
+| Functional Programming Patterns in Scala & Clojure |                | read    | software    |
+| [[http://antirez.com/news/112][The Mythical 10x Programmer]]                        | antirez        | read    | software    |
+| Biopunk                                            | Marcus Wohlsen | reading | biology     |
+| Structures and Why Things Don't Fall Down          | J. E. Gordon   | to read | engineering |
+| [[https://www.3rdsonconsulting.com/story][3rd Son]]                                            |                | read    | life        |
